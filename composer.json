@@ -3,6 +3,7 @@
     "description": "Taxonomy library for Laravel 5.x",
     "type": "library",
     "license": "MIT",
+    "keywords": ["Taxonomy", "Laravel", "Catalog"],
     "authors": [
         {
             "name": "Balazs Szabo",
